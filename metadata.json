@@ -1,0 +1,6 @@
+{
+  "name": "Al-Quran & Duas Pro",
+  "description": "Premium, lightweight, 100% offline Islamic WebApp featuring Quran Surahs with Arabic and Urdu translations, Masnoon Duas, custom typography controls, and AdMob integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
